@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id" />
+    <item name="btnChangeText" type="id" />
+    <item name="btnChangeHeight" type="id" />
+    <item name="btnCenterText" type="id" />
+    <item name="btnDummy1" type="id" />
+    <item name="btnDummy2" type="id" />
+</resources>
